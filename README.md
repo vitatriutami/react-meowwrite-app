@@ -1,1 +1,1 @@
-# React + Tailwind Boilerplate
+# React + Tailwind Note Taking App with UseContext
